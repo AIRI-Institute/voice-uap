@@ -1,8 +1,7 @@
 # Novel Loss-Enhanced Universal Adversarial Patches for Sustainable Speaker Privacy
+### Accepted to Interspeech-2025
 
 This repository accompanies the paper **“Novel Loss-Enhanced Universal Adversarial Patches for Sustainable Speaker Privacy”** by Elvir Karimov, Alexander Varlamov, Danil Ivanov, Dmitrii Korzh, and Oleg Y. Rogov. The paper presents a new method for generating Universal Adversarial Patches (UAPs) in the audio domain to protect speaker identity, introducing a novel Exponential Total Variance loss function and a length‐independent UAP insertion procedure.
-
----
 
 ## Abstract
 
@@ -22,13 +21,6 @@ Deep learning voice models are commonly used nowadays, but the safety of process
 3. **Length-Agnostic Evaluation Procedure**  
    We establish a rigorous evaluation protocol that accounts for dataset biases, including variations in loudness levels. Furthermore, a proper padding strategy based on audio repetition is implemented to prevent the UAP from exploiting artificially silent segments, ensuring robustness across different audio lengths.
 
----
-
-## Paper
-
-- **Title:** Novel Loss-Enhanced Universal Adversarial Patches for Sustainable Speaker Privacy  
-- **Authors:** Elvir Karimov, Alexander Varlamov, Danil Ivanov, Dmitrii Korzh, Oleg Y. Rogov  
-- **arXiv:** [arXiv:2505.19951](https://arxiv.org/abs/2505.19951)  
 
 ---
 

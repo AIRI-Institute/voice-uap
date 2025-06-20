@@ -27,12 +27,10 @@ Deep learning voice models are commonly used nowadays, but the safety of process
 ## Citation
 
 ```bibtex
-@misc{karimov2025novellossenhanceduniversaladversarial,
+@article{karimov2025novel,
   title={Novel Loss-Enhanced Universal Adversarial Patches for Sustainable Speaker Privacy},
-  author={Elvir Karimov and Alexander Varlamov and Danil Ivanov and Dmitrii Korzh and Oleg Y. Rogov},
-  year={2025},
-  eprint={2505.19951},
-  archivePrefix={arXiv},
-  primaryClass={cs.SD},
-  url={https://arxiv.org/abs/2505.19951},
+  author={Karimov, Elvir and Varlamov, Alexander and Ivanov, Danil and Korzh, Dmitrii and Rogov, Oleg Y},
+  journal={arXiv preprint arXiv:2505.19951},
+  year={2025}
 }
+```
